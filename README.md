@@ -1,2 +1,1 @@
-# 30DaysOfJavascript
- 
+# 30DaysOfJavascript Exercise Answers
